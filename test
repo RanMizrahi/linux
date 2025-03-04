@@ -1,1 +1,18 @@
 test :)
+another test :)
+    1  df -h /
+    2  du -sh /
+    3  sudo du -sh /
+    4  df -h
+    5  du -ah ~ | sort -rh | head -n 5
+    6  df -h /
+    7  sudo apt install git
+    8  sudo yum install git
+    9  mkdir GIT
+   10  cd GIT/  
+   11  git clone https://github.com/RanMizrahi/linux.git
+   12  ls -l
+   13  cd linux/
+   14  ls -l
+   15  vim test
+   16  history >> test
